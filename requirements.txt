@@ -6,7 +6,6 @@ python-multipart==0.0.6
 # База данных и ORM (обновленные версии)
 sqlalchemy==2.0.25
 sqlalchemy[asyncio]==2.0.25
-databases[sqlite]==0.8.0  # Удалите эту строку, если остаются конфликты
 alembic==1.13.1
 
 # Аутентификация и безопасность
